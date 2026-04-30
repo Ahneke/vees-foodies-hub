@@ -119,7 +119,7 @@ export default function Home() {
             Vees<br />Foodies<br />Hub
           </h1>
           <div className="absolute -top-4 -right-4 bg-black text-white text-[10px] font-black px-4 py-2 rounded-full rotate-12 uppercase tracking-widest shadow-xl">
-            Abuja's Finest
+            Abuja-Lagos Finest
           </div>
         </div>
         <p className="max-w-md text-sm font-bold uppercase tracking-[0.3em] text-black mb-12">
