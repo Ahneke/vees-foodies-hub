@@ -123,7 +123,7 @@ export default function Home() {
           </div>
         </div>
         <p className="max-w-md text-sm font-bold uppercase tracking-[0.3em] text-black mb-12">
-          Authentic Flavors. <br />No Long Talk, Just Great Food.
+          Authentic Flavors. <br /> Enjoy Great Food.
         </p>
         <button 
           onClick={() => setShowMenu(true)}
